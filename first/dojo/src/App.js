@@ -39,7 +39,7 @@ class App extends Component {
                                                                 craft={astronaut.craft}
                                                                 />))}
                           </ul>
-                 </div>
+                  </div>
               }
             </div>
         );
